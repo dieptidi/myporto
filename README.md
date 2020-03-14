@@ -107,3 +107,13 @@ If you'd like to preview the theme locally (for example, in the process of propo
 ### Running tests
 
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
+
+### Future Skill
+
+0. Windows Form (Frontend Windows Desktop App)
+1. Flutter / Android Studio (Frontend Mobile App)
+2. CodeIgniter / Laravel (Frontend/Backend Web | Sql)
+3. Vue Js (Frontent Web | NoSql)
+4. Node Js (Backend Web | NoSql)
+5. Unity 2d & 3d (Game Development | C#)
+6. Unreal Engine (Game Development | C++)
